@@ -1,5 +1,5 @@
 # AprilTag ROS 1
-AprilTag Detection and Tracking with ROS 1
+### [AprilTag Detection and Tracking](https://github.com/Tinker-Twins/AprilTag) with ROS 1
 
 ## Build:
 1. Make a directory `ROS1_WS` to act as your ROS 1 workspace.
