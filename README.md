@@ -23,5 +23,5 @@
 
 ## Execute:
 ```bash
-$ roslaunch apriltag_ros apriltag_ros.launch.py
+$ roslaunch apriltag_ros apriltag_ros.launch
 ```
