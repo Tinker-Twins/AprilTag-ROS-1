@@ -1,6 +1,8 @@
 # AprilTag ROS 1
 ### [AprilTag Detection and Tracking](https://github.com/Tinker-Twins/AprilTag) with ROS 1
 
+![TurtleBot3-AprilTag-Tracking](https://github.com/Tinker-Twins/Autonomy-Science-And-Systems/blob/main/Capstone%20Project/media/apriltag_tracking_real_robot.gif)
+
 ## Build:
 1. Make a directory `ROS1_WS` to act as your ROS 1 workspace.
     ```bash
