@@ -3,8 +3,6 @@
 
 ![TurtleBot3-AprilTag-Tracking](https://github.com/Tinker-Twins/Autonomy-Science-And-Systems/blob/main/Capstone%20Project/media/apriltag_tracking_real_robot.gif)
 
-**Note:** The above demonstration uses code from [this repository](https://github.com/Tinker-Twins/Autonomy-Science-And-Systems) for controlling TurtleBot3 to follow the AprilTag marker.
-
 ## Build:
 1. Make a directory `ROS1_WS` to act as your ROS 1 workspace.
     ```bash
